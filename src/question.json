@@ -1,0 +1,110 @@
+[{
+  "question": "What’s this “Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu”?",
+  "options": [
+    "Place Name",
+    "Cafe Name",
+    "Island Name",
+    "Volcano Name"
+  ],
+  "answer": 0,
+  "description": "Taumata­whakatangihanga­koauau­o­tamatea­turi­pukaka­piki­maunga­horo­nuku­pokai­whenua­ki­tana­tahu is a hill near Porangahau, south of Waipukurau in southern Hawke's Bay, New Zealand. The height of the hill is 305 metres (1,001 ft). The hill is notable primarily for its unusually long name, which is of Māori origin; it is often shortened to Taumata for brevity. It has gained a measure of fame as it is the longest place name found in any English-speaking country."
+}, {
+  "question": "What did Captain America say when all the MCU heroes appeared on the battlefield in Avenger’s: Endgame?",
+  "options": [
+    "Avengers Unite",
+    "Avengers Forever",
+    "Avengers Gather",
+    "Avengers Assemble"
+  ],
+  "answer": 3,
+  "description": "Avengers Assemble is the correct answer"
+}, {
+  "question": "Which one is not in the list of 7 wonders of the world?",
+  "options": [
+    "Taj Mahal, India",
+    "Chichen Itza, Mexico",
+    "The Great Pyramid of Giza",
+    "Colosseum, Italy"
+  ],
+  "answer": 2,
+  "description": "<b>Seven wonders of the world are:</b> Great Wall of China, Petra, Colosseum, Chichen Itza, Machu Picchu, Taj Mahal and Christ the Redeemer."
+}, {
+  "question": "Which planet is the largest planet in the solar system?",
+  "options": [
+    "Saturn",
+    "Jupiter",
+    "Earth",
+    "Mars"
+  ],
+  "answer": 1,
+  "description": "Jupiter is the correct answer"
+}, {
+  "question": "Who is called the Greek god of bollywood?",
+  "options": [
+    "John Abraham",
+    "Hrithik Roshan",
+    "Ranveer Singh",
+    "Shahrukh Khan"
+  ],
+  "answer": 1,
+  "description": "Hrithik Roshan is the correct answer"
+}, {
+  "question": "Which living creature is considered immune to death?",
+  "options": [
+    "Lobster",
+    "Tough Whale",
+    "Jelly Fish",
+    "Sturdy Turtles"
+  ],
+  "answer": 2,
+  "description": "Jellyfish known as “Turritopsis doohmii”, or more commonly, the immortal jellyfish, has found a way to cheat death by actually reversing its aging process. If the jellyfish is injured or sick, it returns to its polyp stage over a three-day period, transforming its cells into a younger state that will eventually grow into adulthood all over again."
+}, {
+  "question": "Which actor played the role of James Bond?",
+  "options": [
+    "Daniel Craig",
+    "Tom Cruise",
+    "Christopher Hemsworth",
+    "Robert Downey, Jr."
+  ],
+  "answer": 0,
+  "description": "Daniel Craig is the correct answer"
+}, {
+  "question": "how many reindeer does santa have?",
+  "options": [
+    "2",
+    "4",
+    "6",
+    "8"
+  ],
+  "answer": 3,
+  "description": "<b>Santa Claus's sleigh is led by eight reindeer:</b> Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donder and Blitzen."
+}, {
+  "question": "It is believed that the kingdom and the Tower of London will fall if the six resident _____________ ever leave the fortress.",
+  "options": [
+    "Guards",
+    "Ravens",
+    "Robins",
+    "Lions"
+  ],
+  "answer": 1,
+  "description": "<b>The current Ravens are called</b> Jubilee, Harris, Gripp, Rocky, Erin, Poppy and Merlina."
+}, {
+  "question": "Tidal waves are caused by ________________",
+  "options": [
+    "earth rotation",
+    "moon gravitational pull",
+    "earthquakes"
+  ],
+  "answer": 1,
+  "description": "A tidal wave is a shallow water wave caused by the gravitational interactions between the Sun, Moon, and Earth. While a tsunami is an ocean wave triggered by large earthquakes that occur near or under the ocean, volcanic eruptions, submarine landslides, or by onshore landslides in which large volumes of debris fall into the water."
+}, {
+  "question": "In which country is there a natural gas pit nicknamed the ‘Door to Hell’ that has been on fire since 1971?",
+  "options": [
+    "Iceland",
+    "Turkmenistan",
+    "Azerbaijan",
+    "Bulgaria"
+  ],
+  "answer": 1,
+  "description": "The Darvaza gas crater (Turkmen: Garagum ýalkymy), also known as the Door to Hell or Gates of Hell, is a natural gas field collapsed into a cavern located in Derweze, Turkmenistan. Geologists intentionally set it on fire to prevent the spread of methane gas, and it is thought to have been burning continuously since 1971."
+}]

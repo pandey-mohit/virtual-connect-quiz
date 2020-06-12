@@ -1,0 +1,206 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333333 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ant-radio-wrapper {
+  font-size: 15px !important;
+  color: #333333 !important;
+}
+
+.ant-card-body {
+  color: #333333 !important;
+}
+
+.ant-card-body p {
+  margin-bottom: 10px;
+}
+
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  height: 50px;
+  /* background: rgba(255, 255, 255, 0.2); */
+  margin: 16px;
+}
+
+.leaderboard {
+  background: #ffffff !important;
+  min-width: 300px !important;
+}
+
+.leaderboard .logo {
+  background: #001529;
+  margin: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 65px;
+  height: 65px;
+  margin-bottom: 20px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.scrollable-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  min-height: calc(100vh - 160px);
+}
+
+.scrollable-container button {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.heading {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.question {
+  margin: 20px 0;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.5715;
+  padding-right: 100px;
+}
+.description {
+  color: #333;
+  font-size: 15px;
+}
+
+.timer {
+  position: absolute;
+  right: 10px;
+}
+
+.radio {
+  display: block !important;
+  height: 30px;
+  line-height: 30px !important;
+}
+
+.description {
+  margin-top: 50px;
+}
+
+.knowme-container {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-between;
+  /* justify-content: space-between; */
+}
+
+.ant-card {
+  margin: 20px 1.5% !important;
+  min-width: 30%;
+  width: 30%;
+  border: 1px solid #cccccc !important;
+  min-height: 250px;
+}
+
+.ant-card.select {
+  cursor: pointer;
+}
+
+.ant-card.select p {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;
+  font-size: 48px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.ant-card-head, .ant-card-bordered {
+  border-bottom: 1px solid #cccccc !important;
+}
+
+.players {
+  margin: 0 20px 20px 20px;
+  line-height: 36px;
+}
+
+.players.first {
+  font-weight: bold;
+}
+
+.badge {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  border: 1px solid transparent;
+  background: #ffe58f;
+  display: inline-block;
+  text-align: center;
+  line-height: 36px;
+  position: absolute;
+  right: 30px;
+  cursor: pointer;
+}
+
+.players.first .badge {
+  background: #b7eb8f;
+}
+
+.ant-modal-confirm-body svg {
+  display: none !important;
+}
+
+.ant-modal-confirm-btns {
+  display: none !important;
+}
+
+.winner {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+.winner svg {
+  display: block !important;
+  margin: auto;
+}
+
+.winner p {
+  margin: 20px;
+}
+
+.leaderboard button {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.dream {
+  font-size: 16px;
+  text-align: center;
+  color: #333;
+}
